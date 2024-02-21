@@ -27,5 +27,6 @@ int main(){
 
     } while (1); //1 na linguagem C significa verdadeiro
     
+    printf("\n\n Maior numero: %i \n Menor numero: %i\n", maior, menor);
 
 }
